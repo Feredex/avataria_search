@@ -45,3 +45,6 @@ app.*.map.json
 
 # Secret API keys
 secrets.json
+
+.firebase/
+.vscode/
